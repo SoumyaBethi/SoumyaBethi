@@ -19,9 +19,11 @@
 ---
 
 ### 📌 Projects
+- 🔹 SplitLend
+- 🔹 News Applications
+- 🔹 Meme Share App
 - 🔹 Rock Paper Scissors using OpenCV
 - 🔹 Tic Tac Toe using Minimax Algorithm
-- 🔹 Splitwise
 
 ---
 
